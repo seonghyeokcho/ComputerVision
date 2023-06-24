@@ -1,15 +1,8 @@
 # folders
 /**/.vscode
 /**/.ipynb_checkpoints
-/**/data
-/**/dataset
-/**/text
 /**/__pycache__
-/**/pdf
-/**/ppt
 /**/chromedriver
-# /**/images
-# /**/videos
 /**/MNIST_data
 /**/pre-trained
 /**/model
@@ -17,9 +10,6 @@
 
 # filename extension
 *.txt
-# *.jpg
-# *.png
-# *.bmp
 *.mp4
 *.avi
 *.pdf
